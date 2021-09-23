@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nelson.
 
 - 👯 I’m looking to work on making a small computer game
 - 🖥 I'm familair with python and with Javascript 
